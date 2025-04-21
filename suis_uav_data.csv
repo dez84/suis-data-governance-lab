@@ -1,0 +1,2 @@
+mission_id,timestamp,location,altitude_m,image_path,threat_level,operator_id
+SUIS-001,2025-04-21T14:00Z,34.0123N 117.0012W,1500,/images/img_001.png,High,OP-701

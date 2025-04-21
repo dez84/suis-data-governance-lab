@@ -1,0 +1,5 @@
+metadata:
+  standard: DDMS-2.0
+  fields:
+    mission_id:
+      type: string
